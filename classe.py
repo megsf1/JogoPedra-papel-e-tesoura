@@ -35,4 +35,3 @@ class Jogo:
             print(f'{jogador.nome} ganhou!')
 
 
-
